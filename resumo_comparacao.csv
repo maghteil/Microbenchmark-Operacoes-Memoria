@@ -1,0 +1,6 @@
+operacao,blocos_Windows_menor,blocos_Linux_menor,"blocos_p<0,05"
+alloc_ms,10,0,10
+write_ms,10,0,10
+read_ms,10,0,10
+free_ms,5,5,10
+total_ms,10,0,10
